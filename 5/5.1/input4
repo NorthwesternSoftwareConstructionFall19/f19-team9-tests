@@ -1,6 +1,6 @@
 ["register"]
 
-["receive", "W"]
+["receive-stones", "W"]
 
 ["make-a-move",
 [
